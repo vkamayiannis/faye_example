@@ -44,4 +44,3 @@ group :development, :test do
 end
 gem 'thin'
 gem 'faye'
-gem 'private_pub', :git => 'git://github.com/ryanb/private_pub.git'
